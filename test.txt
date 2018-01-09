@@ -10,8 +10,7 @@ Updating with Bash…
 
 Update with Tortoise…"
 
-<<<<<<< HEAD
 New conflict again!
-=======
+
 the new file is in branch named "develop"
->>>>>>> develop
+
