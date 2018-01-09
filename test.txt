@@ -4,9 +4,6 @@ I have to change this document
 
 It is because of the exercises.
 
-hello!
-
-Updating with Bash…
-
+to commit or not, this is the question 
 
 
