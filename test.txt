@@ -1,4 +1,4 @@
-Update with Tortoise…"
+Update with Tortoiseâ€¦"
 
 I have to change this document
 
@@ -6,9 +6,9 @@ It is because of the exercises.
 
 hello!
 
-Updating with Bash…
+Updating with Bashâ€¦
 
-Update with Tortoise…"
+Update with Tortoiseâ€¦"
 
 New conflict again!
 
