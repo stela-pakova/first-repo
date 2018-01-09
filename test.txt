@@ -1,16 +1,10 @@
-Update with Tortoise…"
+﻿Update with Tortoise…"
 
 I have to change this document
 
 It is because of the exercises.
 
-hello!
+to commit or not, this is the question 
 
-Updating with Bash…
 
-Update with Tortoise…"
-
-New conflict again!
-
-the new file is in branch named "develop"
 
